@@ -1,21 +1,6 @@
 
 # coding: utf-8
 
-# In[7]:
-
-
-import numpy as np
-import tensorflow as tf
-from utils import _permutation
-from sklearn.impute import SimpleImputer
-
-
-# In[42]:
-
-
-# coding: utf-8
-
-
 import numpy as np
 import tensorflow as tf
 from utils import _permutation
